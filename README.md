@@ -10,29 +10,29 @@ L'objectif est de démontrer ma capacité à transformer des données brutes en 
 ## 📊 Principaux Insights (KPIs)
 
 ### 🌍 Analyse Géographique
-* **Leadership US** : Les États-Unis dominent avec **3 690 contenus**, soit **36,9%** de part de marché[cite: 5, 6].
-* **Présence Mondiale** : Le contenu analysé est réparti sur **122 pays**[cite: 32].
-* **Volume par Continent** : 
-    * **Amérique** : 4,62K[cite: 16].
-    * **Asie** : 2,57K[cite: 14].
-    * **Europe** : 2,31K[cite: 13].
-    * **Afrique & Océanie** : 0,52K[cite: 11].
+* **Leadership US** : Les États-Unis dominent avec **3 690 contenus**, soit **36,9%** de part de marché.
+* **Présence Mondiale** : Le contenu analysé est réparti sur **122 pays**.
+* **Volume (nb de contenus Films ou Séries) par Continent** : 
+    * **Amérique** : 4,62K
+    * **Asie** : 2,57K
+    * **Europe** : 2,31K
+    * **Afrique & Océanie** : 0,52K
 
 ### 🎭 Typologie du Catalogue
-* **Répartition des formats** : Une dominance des **Films (68%)** face aux **Séries TV (32%)**[cite: 60, 66].
-* **Diversité** : Plus de **32 catégories** sont couvertes[cite: 71].
-* **Genres majeurs** : International, Dramas et Comédies arrivent en tête des catégories les plus représentées[cite: 73, 74, 75].
+* **Répartition des formats** : Une dominance des **Films (68%)** face aux **Séries TV (32%)**.
+* **Diversité** : Plus de **32 catégories** sont couvertes.
+* **Genres majeurs** : International, Dramas et Comédies arrivent en tête des catégories les plus représentées.
 
 ### ⏳ Évolution et Durées
-* **Films** : La durée moyenne s'est stabilisée à **100 minutes** depuis 2008[cite: 115].
-* **Séries TV** : La moyenne est de **2 saisons** par show[cite: 149].
-* **Pic de production** : Une accélération majeure de l'ajout de contenus est visible à partir des années 2015-2016[cite: 143].
+* **Films** : La durée moyenne s'est stabilisée à **100 minutes** depuis 2008.
+* **Séries TV** : La moyenne est de **2 saisons** par show.
+* **Pic de production** : Une accélération majeure de l'ajout de contenus est visible à partir des années 2015-2016.
 
 ### 📅 Saisonnalité (Focus 2021)
-* **Stratégie de sortie** : En 2021, l'automne (**Autumn**) a été la saison la plus dense avec **43%** des publications annuelles[cite: 188].
+* **Stratégie de sortie** : En 2021, l'automne (**Autumn**) a été la saison la plus dense avec **43%** des publications annuelles.
 
 ### 🌟 Top Talents
-* **Acteur le plus présent** : **Anupam Kher** arrive en tête avec **42 rôles** répertoriés sur la plateforme[cite: 242, 282].
+* **Acteur le plus présent** : **Anupam Kher** arrive en tête avec **42 rôles** répertoriés sur la plateforme.
 
 ---
 
